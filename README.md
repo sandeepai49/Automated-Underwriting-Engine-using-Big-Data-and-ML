@@ -13,7 +13,7 @@ An intelligent underwriting system that uses **Big Data** and **Machine Learning
 
 ---
 
-## 🏗 Tech Stack
+##  Tech Stack
 - **Backend**: Python, FastAPI  
 - **ML**: scikit-learn / XGBoost / PyTorch  
 - **Big Data**: Apache Spark, Kafka, Delta Lake  
